@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/scanLabel"
+            android:title="Scan Label" />
+        <item
+            android:id="@+id/allergyList"
+            android:title="Allergy List" />
+        <item
+            android:id="@+id/aboutApp"
+            android:title="About App" />
+        <item
+            android:id="@+id/contact"
+            android:title="Contact" />
+    </group>
+</menu>

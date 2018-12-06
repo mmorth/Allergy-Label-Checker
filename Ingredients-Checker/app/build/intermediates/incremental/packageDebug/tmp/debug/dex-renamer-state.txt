@@ -1,0 +1,4 @@
+#Mon Nov 12 07:35:27 CST 2018
+base.0=C\:\\Users\\Owner\\AppData\\Roaming\\SPB_16.6\\cpre388\\Ingredients-Checker\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+path.0=classes.dex
+renamed.0=classes.dex

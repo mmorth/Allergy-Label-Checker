@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants"
+    tools:layout_editor_absoluteY="81dp">
+
+    <TableRow
+        android:id="@+id/tableRow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp">
+
+        <Button
+            android:id="@+id/removeAllergy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="removeAllergy"
+            android:text="@string/remove_allergy" />
+
+        <TextView
+            android:id="@+id/allergyName"
+            android:layout_width="225dp"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+    </TableRow>
+</android.support.constraint.ConstraintLayout>
