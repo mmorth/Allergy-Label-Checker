@@ -5,6 +5,9 @@ I was able to implement this project in my Android Embedded Systems class’ fin
 
 Creating this app was a great experience for me because it is something that I will use before I eat anything with a food label. It also allowed me to learn the importance of seeking the opinion of the users when developing a solution to a problem as they know best what they want. I look forward to what other apps or programs I can develop that may help my life and the lives of others.
 
+![alt text](https://github.com/mmorth/Allergy-Label-Checker/blob/master/Ingredients_Scanner.png)
+![alt text](https://github.com/mmorth/Allergy-Label-Checker/blob/master/Allergy_Input.png)
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine.
 
